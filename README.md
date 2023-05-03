@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Make sure you downloaded and installed the following VSCode extensions:
 
-- Python
+- Python 3.11.3
 - Jupyter
 - Pylance
 - Live Share
