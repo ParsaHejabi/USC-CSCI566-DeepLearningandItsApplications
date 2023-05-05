@@ -1,3 +1,0 @@
-[submodule "VQA"]
-	path = VQA
-	url = git@github.com:GT-Vision-Lab/VQA.git
